@@ -7,3 +7,6 @@ return 1;// 返回1
 printf("hello world!\n");//输出hello word!
 
 }
+
+
+replace h= i if i == 2018
