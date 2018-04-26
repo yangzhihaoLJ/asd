@@ -5,5 +5,8 @@ int main()
 printf("hello world!\n");//输出hello word!
 return 1;// 返回1
 printf("hello world!\n");//输出hello word!
+
+
+啊实打实的
 return 1;// 返回1
 }
